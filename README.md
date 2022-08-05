@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 I'm currently studying in Tongji University.<br>I'm interested in developing games.<br>Now I'm concerned more about design patterns and OCP principle, which will make my code more elegant.
 
